@@ -1,2 +1,0 @@
-### Minecraft Usernames
-- Kwarma_
