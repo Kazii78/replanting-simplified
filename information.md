@@ -11,4 +11,4 @@ Holding right-click on a crop will make it grow, then switch to harvesting and a
 
 ## Data Pack
 - **Format:** `41`
-- **Version:** `v1.0.0`
+- **Version:** `1.0.0`
