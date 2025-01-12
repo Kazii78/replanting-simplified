@@ -1,6 +1,0 @@
-setblock ~ ~ ~ wheat destroy
-
-tag @s add replanting_simplified.harvest_and_replant_interaction.item_teleport_location
-execute as @e[type = item, dx = 0, nbt = {Age: 0s}] if items entity @s contents #replanting_simplified:item_drops/blocks/wheat run data merge entity @s {PickupDelay: 0s}
-execute as @e[type = item, dx = 0, nbt = {Age: 0s}] if items entity @s contents #replanting_simplified:item_drops/blocks/wheat run tp @s @p[tag = replanting_simplified.harvest_and_replant_interaction.item_teleport_location]
-tag @s remove replanting_simplified.harvest_and_replant_interaction.item_teleport_location
