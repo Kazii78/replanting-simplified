@@ -1,1 +1,0 @@
-summon interaction ~ ~ ~ {Tags: ["replanting_simplified.harvest_and_replant_interaction"], width: 1.01f, height: 1.01f}
